@@ -1,0 +1,23 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "description": "Learn to code for free with thousands of lessons and projects.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "language": "TypeScript",
+    "starredAt": "2026-10-12"
+  },
+  {
+    "name": "The Odin Project",
+    "description": "An open-source curriculum for learning web development.",
+    "url": "https://github.com/TheOdinProject/curriculum",
+    "language": "JavaScript",
+    "starredAt": "2026-09-28"
+  },
+  {
+    "name": "oh-my-posh",
+    "description": "A prompt theme engine for any shell.",
+    "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+    "language": "Go",
+    "starredAt": "2026-09-03"
+  }
+]
